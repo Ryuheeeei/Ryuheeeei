@@ -14,8 +14,7 @@ I’m a backend & cloud engineer with a passion for building scalable, secure, a
 ---
 
 ## 🚀 What I'm Working On
-- Automating workflows with GitOps principles
-- Building CLI tools in Go to integrate with Notion API
+
 - Studying advanced system design and frontend (Next.js, React)
 
 ---
